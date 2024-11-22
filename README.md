@@ -11,6 +11,7 @@ cd urlAc-une-tix
 pip insatll python
 pip insatll python3
 python --version
+pip install requests
 python urlAcunt.py
 
 
