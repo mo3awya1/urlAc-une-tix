@@ -1,6 +1,8 @@
 # urlAc-une-tix
 
-
+# Examples
+https://googoo.googoo
+https://googoo.googoo, https://googoo.googoo
 
 ## Usage:
 ```bash
@@ -10,3 +12,5 @@ pip insatll python
 pip insatll python3
 python --version
 python urlAcunt.py
+
+
