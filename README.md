@@ -1,8 +1,7 @@
 # urlAc-une-tix
 
 # Examples
-https://googoo.googoo
-https://googoo.googoo, https://googoo.googoo
+
 
 ## Usage:
 ```bash
