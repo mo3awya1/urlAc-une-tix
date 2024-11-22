@@ -1,7 +1,8 @@
 # urlAc-une-tix
 
 # Examples
-
+#httpx:googel.com
+#httpx:googel.com, httpx:googel.com
 
 ## Usage:
 ```bash
