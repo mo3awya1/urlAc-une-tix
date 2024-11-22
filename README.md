@@ -12,6 +12,7 @@ pip insatll python
 pip insatll python3
 python --version
 pip install requests
+sudo apt-get install python3-tk
 python urlAcunt.py
 
 
